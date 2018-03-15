@@ -13,4 +13,4 @@ Positions:
 - 2016-17: Co-Chair of Chinese State Council (bilingual English/Mandarin)
 
 ## Associated Students of the University of California
-**International Affairs Coordinator (August 2016 - May 2017)**I served in the student government at UC Berkeley, which represents all 30,000 undergraduates at Cal, in the Office of Senator Li where I spearheaded the organization and implementation of a Visa and Career Planning Workshop for 75 international students. I also researched and planned cultural exchange events with 300 attendees to facilitate greater inter-cultural awareness, communication, and understanding. 
+**International Affairs Coordinator (August 2016 - May 2017)** I served in the student government at UC Berkeley, which represents all 30,000 undergraduates at Cal, in the Office of Senator Li where I spearheaded the organization and implementation of a Visa and Career Planning Workshop for 75 international students. I also researched and planned cultural exchange events with 300 attendees to facilitate greater inter-cultural awareness, communication, and understanding. 
