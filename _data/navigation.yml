@@ -5,10 +5,7 @@ main:
     url: /academics/    
 
   - title: "Projects"
-    url: /projects/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /projects/
         
   - title: "Research"
     url: /research/
