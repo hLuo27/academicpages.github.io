@@ -9,7 +9,7 @@ redirect_from:
 
 ## University of California, Berkeley (2016-2020)
 - Double Major in Pure Mathematics and Statistics
-- GPA: 3.95, Dean's Honours List*
+- GPA: 3.95, Dean's Honours List
 
 ## Math Coursework (Major GPA: 4.0)
 
