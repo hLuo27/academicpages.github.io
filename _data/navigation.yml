@@ -10,11 +10,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Leadership"
-    url: /leadership/
-    
   - title: "Teaching"
     url: /teaching/
     
-  - title: "Resume"
-    url: /resume/
+  - title: "CV"
+    url: /cv/
