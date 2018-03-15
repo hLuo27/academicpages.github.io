@@ -11,9 +11,9 @@ title                    : "Hubert Luo"
 title_separator          : "-"
 name                     : &name "Hubert Luo"
 description              : &description "Undergrad at UC Berkeley"
-url                      : https://academicpages.github.io # "https://hubertluo.github.io"
+url                      : https://hLuo27.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hubertluo.github.io"
+repository               : "hLuo27.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
