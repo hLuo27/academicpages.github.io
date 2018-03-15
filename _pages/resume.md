@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "Resume"
+permalink: /resume/
+author_profile: true
+---
+
+Here is my [resume](https:/hLuo27.github.io/files/Hubert%20Luo%203.pdf
