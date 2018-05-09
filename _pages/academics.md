@@ -14,7 +14,7 @@ redirect_from:
 ## Math Coursework (Major GPA: 4.0)
 
 - Math 113: **Abstract Algebra** (Summer 2018)
-- Math 185: **Complex Analysis** (Summer 2018)
+- Math 185: **Complex Analysis** (Summer 2018, R. Ramkumar)
 - Math 104: **Real Analysis** (Spring 2018, M. Pejic)
 - Math 110: **Linear Algebra** (Fall 2017, Z. Stankova)
 - Math 55: **Discrete Mathematics** (Summer 2017, Z. Jiang)
