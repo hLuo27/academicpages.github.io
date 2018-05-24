@@ -20,7 +20,6 @@ redirect_from:
 
 ## Math Coursework (Major GPA: 4.0)
 
-- Math 185: **Complex Analysis** (Summer 2018, M. Munteanu)
 - Math 113: **Abstract Algebra** (Summer 2018, A. Paulin)
 - Math 104: **Real Analysis** (Spring 2018, M. Pejic)
 - Math 110: **Linear Algebra** (Fall 2017, Z. Stankova)
@@ -31,6 +30,7 @@ redirect_from:
 
 ## Other Relevant Coursework
 
+- Computer Science 188: **Artificial Intelligence** (Summer 2018, D. Fried and A. Baroudi)
 - Economics 136: **Chinese Economy** (Fall 2017, G. Roland)
 - Economics 1: **Introduction to Economics** (Fall 2017, M. Olney)
 - Computer Science 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
