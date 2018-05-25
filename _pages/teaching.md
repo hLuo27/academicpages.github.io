@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Math 55 **Discrete Mathematics** Reader (Summer 2018)
 - Stat 134 **Concepts of Probability** Grop Tutor (Spring 2018)
 - Math 54 **Linear Algebra and Differential Equations** Tutor (Fall 2017)
 - Math 55 **Discrete Mathematics** Tutor (Fall 2017)
