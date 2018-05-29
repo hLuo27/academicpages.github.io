@@ -14,7 +14,7 @@ redirect_from:
 ## Statistics Coursework (Major GPA: 4.0)
 
 - Stat 135: **Concepts of Statistics** (Spring 2018, H. Ibser)
-- Stat 133: **Concepts of Computing with Data** (Spring 2018, G. Sanchez)
+- Stat 133: **Concepts in Computing with Data** (Spring 2018, G. Sanchez)
 - Stat C8: **Foundations of Data Science** (Spring 2018, A. Adhikari)
 - Stat 134: **Concepts of Probability** (Fall 2017, H. Ibser)
 
