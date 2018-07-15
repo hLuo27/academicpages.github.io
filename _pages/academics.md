@@ -10,7 +10,7 @@ redirect_from:
 ## University of California, Berkeley (2016-2020)
 - Double Major in Statistics and Mathematics
 - GPA: 3.96, Dean's Honours List
-- Statistics Major GPA: 4.0 | Math Major GPA: 4.0
+- Statistics Major GPA: 4.0 // Math Major GPA: 4.0
 
 ### Statistics Coursework
 
