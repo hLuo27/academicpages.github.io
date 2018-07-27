@@ -15,6 +15,10 @@ Berkeley Statistics Undergraduate Students Association Data Consultant | Septemb
 - Produced a variety of data visualizations including choropleth maps to present findings and investigate model accuracy using Tableau
 - Conducted literature review, cleaned census data, and wrote final report and slides to develop future distribution and service strategies
 
+## Pacman Agent
+Python | June/July 2018
+- Created collaborative agent that implemented A* search, minimax game trees, and reinforcement learning to play Pacman
+
 ## Classifying Legendary Pokémon
 R | [Link](https://github.com/hLuo27/pokemon/blob/master/classify_legenday_pokemon_report.md) | May 2018
 - Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-means clustering 
