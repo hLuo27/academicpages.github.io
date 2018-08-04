@@ -11,7 +11,7 @@ I worked on the Kids and Family Project, a longitudinal study started in 2008 th
 
 ## Math Directed Reading Program
 **Undergraduate Student (September 2017 - December 2017)**
-I participated in an independent reading project mentored by a PhD candidate, Charles Wang. My focus was on convex polytopes, which draws upon a variety of fields such as combinatorics and graph theory, using Günter Ziegler's Lectures on Polytopes.
+I participated in an independent reading project mentored by a PhD candidate, Charles Wang. My focus was on convex polytopes, which draws upon a variety of fields such as combinatorics and graph theory, using Günter Ziegler's *Lectures on Polytopes*.
 
 # Talks
 
