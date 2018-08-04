@@ -7,6 +7,8 @@ author_profile: true
 
 ## Predicting Well Functionality
 WellDone Data Science Intern | June 2018 - Present
+- Train, apply, and evaluate machine learning models to predict hand pump failures for governments and aid organizations 
+- Research, quantify, and summarize the impact and results of existing data projects in the water, sanitation, and hygiene sector
 
 ## Alameda County Food Insecurity
 Berkeley Statistics Undergraduate Students Association Data Consultant | September - December 2017
@@ -20,7 +22,7 @@ Python | August 2018
 - Implemented handwritten digit classification, language classification, regression, and reinforcement learning models using neural nets
 - Achieved 97.5% accuracy on digit classification and 81% on language classification
 ![Digit Classification](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/NN%20Digit%20Classificaton%20Plot.png "Digit Classification")
-- Achieved loss of 0.005 using regression neural network to model sine curve
+- Achieved loss of 0.0077 using regression neural network to model sine curve
 ![Regression](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/NN%20Regression%20Plot.png "Modelling Sine Curve")
 
 ## Pacman Agent
