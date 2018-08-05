@@ -14,7 +14,7 @@ redirect_from:
 
 ### Statistics Coursework
 
-- Stat 154: **Modern Statistical Prediction and Machine Learning** (Fall 2018)
+- Stat 154: **Modern Statistical Prediction and Machine Learning** (Fall 2018, J. Chen)
 - Stat 150: **Stochastic Processes** (Fall 2018, B. Kolesnik)
 - Stat 135: **Concepts of Statistics** (Spring 2018, H. Ibser)
 - Stat 133: **Concepts in Computing with Data** (Spring 2018, G. Sanchez)
@@ -31,9 +31,9 @@ redirect_from:
 - Math 53: **Multivariable Calculus** (Spring 2017, E. Frenkel)
 - Math 1A: **Calculus** (Fall 2016, A. Paulin)
 
-### Data Science Coursework
+### Computer Science Coursework
 
-- Data 100: **Principles & Techniques of Data Science** (Fall 2018, F. Perez and J. Hug)
 - CS 188: **Artificial Intelligence** (Summer 2018, D. Fried and A. Baroudi)
-- Data 8: **Foundations of Data Science** (Spring 2018, A. Adhikari)
+- CS 100: **Principles & Techniques of Data Science** (Fall 2018, F. Perez and J. Hug)
+- CS 8: **Foundations of Data Science** (Spring 2018, A. Adhikari)
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
