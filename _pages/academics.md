@@ -22,6 +22,7 @@ redirect_from:
 
 ### Math Coursework
 
+- Math 202A: **Topology and Analysis\*** (Fall 2018, M. Rieffel)
 - Math 128A: **Numerical Analysis** (Fall 2018, J. Wilkening)
 - Math 113: **Abstract Algebra** (Summer 2018, A. Paulin)
 - Math 104: **Real Analysis** (Spring 2018, M. Pejic)
@@ -37,3 +38,5 @@ redirect_from:
 - CS 100: **Principles & Techniques of Data Science** (Fall 2018, F. Perez and J. Hug)
 - CS 8: **Foundations of Data Science** (Spring 2018, A. Adhikari)
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
+
+*\*Auditing graduate-level course*
