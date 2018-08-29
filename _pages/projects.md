@@ -17,35 +17,29 @@ Berkeley Statistics Undergraduate Students Association Data Consultant | Septemb
 - Produced a variety of data visualizations including choropleth maps to present findings and investigate model accuracy using Tableau
 - Conducted literature review, cleaned census data, and wrote final report and slides to develop future distribution and service strategies
 
-## Neural Nets
-Python | August 2018
-- Implemented handwritten digit classification, language classification, regression, and reinforcement learning models using neural nets
-- Achieved 97.5% accuracy on digit classification and 81% on language classification
-![Digit Classification](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/NN%20Digit%20Classificaton%20Plot.png "Digit Classification")
-- Achieved loss of 0.0077 using regression neural network to model sine curve
-![Regression](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/NN%20Regression%20Plot.png "Modelling Sine Curve")
+## Personal/Class Projects
 
-## Pacman Agent
+### Pacman Agent
 Python | June/July 2018
 - Created collaborative agent that implemented A* search, minimax game trees, and reinforcement learning to play Pacman
 
-## Classifying Legendary Pokémon
+### Classifying Legendary Pokémon
 R | [Link](https://github.com/hLuo27/pokemon/blob/master/classify_legenday_pokemon_report.md) | May 2018
 - Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-means clustering 
 - R Packages: dplyr, ggplot2
 
-## Predicting Child Heights from Parent Heights
+### Predicting Child Heights from Parent Heights
 Python/Jupyter Notebook | [Link](https://github.com/hLuo27/predict_heights) | April 2018
 - Fitted data using linear regression, applied method of least squares, calculated correlation, standardized data units, and graphed residuals to evaluate applicability of linear regression model to predict heights of children given the heights of their parents
 - Python packages: numpy, scipy, matplotlib, datascience
 
-## Location of Palindromes in DNA Sequence of Human Cytomegalovirus
+### Location of Palindromes in DNA Sequence of Human Cytomegalovirus
 R | [Link](https://github.com/hLuo27/DNA_palindromes) | March 2018
-- Tested whether whether the placements of palindromes in the DNA sequence of Human Cytomegalovirus follows a Poisson distribution using a chi-squared goodness-of-fit test on the counts of palindromes in various intervals and a hypothesis test on the maximum number of palindromes found in an interval.
+- Tested whether the placements of palindromes in the DNA sequence of Human Cytomegalovirus follows a Poisson distribution using a chi-squared goodness-of-fit test on the counts of palindromes in various intervals and a hypothesis test on the maximum number of palindromes found in an interval.
 - Wrote final report with visualizations and tables to analyze results and discuss limitations 
 - R Packages: ggplot2, dplyr, reshape2, knitr
 
-## 2016-17 NBA Statistics
+### 2016-17 NBA Statistics
 R | [Link](https://github.com/hLuo27/nba) | February - March 2018
 - Used Principal Component Analysis, bootstrap/jackknife resampling, and random sampling simulations to calculate sample statistics, standard errors, correlations, and confidence intervals
 - Conducted exploratory data analysis, including dataframe manipulations and visualizations
