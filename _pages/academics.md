@@ -40,3 +40,5 @@ redirect_from:
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
 
 *\*Auditing graduate-level course*
+
+[Descriptive List of Upper Division Statistics and Math Coursework](https:/hLuo27.github.io/files/Descriptive_List_of_Upper_Division_Statistics_and_Math_Coursework.pdf)
