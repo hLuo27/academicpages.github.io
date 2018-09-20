@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Predicting Well Functionality
+## Using Survey Data to Predict Well Functionality
 WellDone Data Science Intern | June 2018 - Present
 - Train, apply, and evaluate machine learning models to predict hand pump failures for governments and aid organizations 
 - Research, quantify, and summarize the impact and results of existing data projects in the water, sanitation, and hygiene sector
