@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+## Stark Research Group, UC Berkeley
+**Undergraduate Researcher (September 2018 - Present)**
+Review video-recorded faculty job talks to transcribe the number, nature, and duration of interruptions. Perform statistical analysis to quantify interruptions and to test whether race and gender matter, using permutation tests. Help draft a paper for publication.
+
 ## UC Berkeley Family and Culture Lab
 **Undergraduate Researcher (January 2017 - May 2018)**
 I worked on the Kids and Family Project, a longitudinal study started in 2008 that examined the risk and protective factors for mental health adjustment in 258 first and second generation Chinese-American immigrant children. The study aimed to investigate the overall development and individual differences in not only their mental health adjustment, but also their academic and socio-emotional competence and what contextual factors place them at risk for maladjustment. I was responsible for designing and maintaining the database using SPSS and Excel, as well as collecting, processing, and evaluating written and online surveys using Qualtrics.
