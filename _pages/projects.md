@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Using Survey Data to Predict Well Functionality
+## Predicting Well Functionality: Limitations of Survey Data
 WellDone Data Science Intern | June 2018 - Present
-- Train, apply, and evaluate machine learning models to predict hand pump failures for governments and aid organizations 
-- Research, quantify, and summarize the impact and results of existing data projects in the water, sanitation, and hygiene sector
+- Train, apply, and evaluate machine learning models to improve well failure prediction accuracy by using alternative data sources
+- Created extensive 30-page report that summarized methodology and findings for governments and aid organizations 
 
 ## Alameda County Food Insecurity
 Berkeley Statistics Undergraduate Students Association Data Consultant | September - December 2017
@@ -25,7 +25,7 @@ Python | June/July 2018
 
 ### Classifying Legendary Pokémon
 R | [Link](https://github.com/hLuo27/pokemon/blob/master/classify_legenday_pokemon_report.md) | May 2018
-- Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-means clustering 
+- Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-nearest neighbours algorithm 
 - R Packages: dplyr, ggplot2
 
 ### Predicting Child Heights from Parent Heights
