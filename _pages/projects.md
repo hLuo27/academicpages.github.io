@@ -19,6 +19,13 @@ Berkeley Statistics Undergraduate Students Association Data Consultant | Septemb
 
 ## Personal/Class Projects
 
+### Neural Networks
+Python | August 2018
+- Built neural networks from scratch to implement handwritten digit classification, language classification, and regression models
+- Tuned hyperparameters to achieve 97.5% accuracy on digit classification, 81% on language classification, and loss of 0.0077 on sine curve regression
+![Digit Classification](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/cs188_neural_net/NN%20Digit%20Classificaton%20Plot.png "Digit Classification")
+![Regression](https://raw.githubusercontent.com/hLuo27/hLuo27.github.io/master/files/cs188_neural_net/NN%20Regression%20Plot.png "Modelling Sine Curve")
+
 ### Pacman Agent
 Python | June/July 2018
 - Created collaborative agent that implemented A* search, minimax game trees, and reinforcement learning to play Pacman
