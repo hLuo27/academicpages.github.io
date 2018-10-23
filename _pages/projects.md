@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Predicting Well Functionality: Limitations of Survey Data
-WellDone Data Science Intern | June 2018 - Present
+WellDone Data Science Intern | June 2018 - October 2018
 - Train, apply, and evaluate machine learning models to improve well failure prediction accuracy by using alternative data sources
 - Created extensive 30-page report that summarized methodology and findings for governments and aid organizations 
 
