@@ -38,4 +38,4 @@ redirect_from:
 - CS 8: **Foundations of Data Science** (Spring 2018, A. Adhikari)
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
 
-[Descriptive List of Statistics and Math Coursework](https:/hLuo27.github.io/files/Descriptive_List_of_Statistics_and_Math_Coursework)
+[Descriptive List of Statistics and Math Coursework](https:/hLuo27.github.io/files/Descriptive_List_of_Statistics_and_Math_Coursework.pdf)
