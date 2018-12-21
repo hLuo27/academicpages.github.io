@@ -19,6 +19,12 @@ B. Liang, S. Le, **H. Luo**, A. Mohan, S. Rao, R. Williams, R. Yang, K. Yen,  A.
 
 ## Personal/Class Projects
 
+### BrokenBat Baseball Simulator Draft Analysis
+Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/draft/draft_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/draft) | December 2018
+- Scraped player and team draft information
+- Developed and evaluated machine learning models to predict a player's potential
+- Analyzed draft patterns in 15 seasons and created report explaining findings with actionable items for managers to change draft strategies
+
 ### Neural Networks
 Python | August 2018
 - Built neural networks from scratch to implement handwritten digit classification, language classification, and regression models
@@ -31,16 +37,8 @@ Python | June/July 2018
 ### Classifying Legendary Pokémon
 R | [Link](https://github.com/hLuo27/pokemon/blob/master/classify_legenday_pokemon_report.md) | May 2018
 - Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-nearest neighbours algorithm 
-- R Packages: dplyr, ggplot2
 
 ### Location of Palindromes in DNA Sequence of Human Cytomegalovirus
 R | [Link](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md) | March 2018
 - Tested whether the placements of palindromes in the DNA sequence of Human Cytomegalovirus follows a Poisson distribution using a chi-squared goodness-of-fit test on the counts of palindromes in various intervals and a hypothesis test on the maximum number of palindromes found in an interval.
-- Wrote final report with visualizations and tables to analyze results and discuss limitations 
-- R Packages: ggplot2, dplyr, reshape2, knitr
-
-### 2016-17 NBA Statistics
-R | [Link](https://github.com/hLuo27/nba) | February - March 2018
-- Used Principal Component Analysis, bootstrap/jackknife resampling, and random sampling simulations to calculate sample statistics, standard errors, correlations, and confidence intervals
-- Conducted exploratory data analysis, including dataframe manipulations and visualizations
-- R Packages: ggplot2, dplyr, corrplot, readr, bootstrap
+- Wrote final report with visualizations and tables to analyze results and discuss limitations
