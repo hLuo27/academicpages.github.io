@@ -3,8 +3,6 @@ layout: archive
 title: "Academics"
 permalink: /academics/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 ## University of California, Berkeley (2016-2020)
