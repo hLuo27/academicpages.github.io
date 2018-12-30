@@ -10,7 +10,7 @@ author_profile: true
 - Train, apply, and evaluate machine learning models to improve well failure prediction accuracy by using alternative data sources
 - Created extensive 30-page report that summarized methodology and findings for governments and aid organizations 
 
-B. Liang, S. Le, **H. Luo**, A. Mohan, S. Rao, R. Williams, R. Yang, K. Yen,  A. Yi. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. 
+B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. 
 
 - Analyzed social, economic, and demographic datasets to conduct exploratory data analysis and identify areas in need of hunger alleviation services
 - Created multivariable predictive model to predict pounds unmet by census tract using Python and R
