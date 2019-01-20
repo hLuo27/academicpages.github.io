@@ -19,11 +19,17 @@ B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modellin
 
 ## Personal/Class Projects
 
+### BrokenBat Baseball Simulator Player Performance Modelling
+Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/player_performance/player_performance_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/player_performance) | January 2019
+-	Scraped player attributes and statistics from a baseball simulator (BrokenBat)
+-	Developed and evaluated machine learning models to predict a batter's weighted on-base average (wOBA) and a pitcher's rate statistics (K/9, BB/9, HR/9) and Fielding Independent Pitching (FIP) 
+-	Applied models and analyze patterns among 900 players to create report explaining findings with actionable items for managers to boost player performance
+
 ### BrokenBat Baseball Simulator Draft Analysis
 Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/draft/draft_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/draft) | December 2018
-- Scraped player and team draft information
-- Developed and evaluated machine learning models to predict a player's potential
-- Analyzed draft patterns in 15 seasons and created report explaining findings with actionable items for managers to change draft strategies
+-	Scraped draft information of 81,000 players from baseball simulator (BrokenBat)
+-	Developed and evaluated machine learning models to predict a player's potential
+-	Analyzed draft patterns in 15 seasons and created report explaining findings with actionable items for managers to change draft strategies
 
 ### Neural Networks
 Python | August 2018
