@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year at UC Berkeley studying statistics and applied math. Currently, I'm conducting research with the Stark Group and I was previously a researcher in the Family and Culture Lab. My interests are in applied statistics, sports analytics, and probability theory.
+I'm a fourth year at UC Berkeley studying statistics and applied math. Currently, I'm working as a Data Science Intern at Lazard and conducting research with the Stark Group in the Statistics department at UC Berkeley. My interests are in applied statistics in connection with finance, political science, and demography.
