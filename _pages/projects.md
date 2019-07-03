@@ -5,17 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
+**H. Luo**, A. Mandalik, J. Yu. "Unconvicted Inmates in American Jails". Final project for survey sampling course. May 2019. [[pdf]]((https:/hLuo27.github.io/files/sampling.pdf))
+
+S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for machine learning course. May 2019.[[pdf]]((https:/hLuo27.github.io/files/redwood.pdf))
+
 **H. Luo**, A. Wu. "Predicting Well Functionality: Limitations of Survey Data". WellDone data science internship project. October 2018. 
 
 - Train, apply, and evaluate machine learning models to improve well failure prediction accuracy by using alternative data sources
 - Created extensive 30-page report that summarized methodology and findings for governments and aid organizations 
 
 B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https://susa.berkeley.edu/dataconsulting/food-insecurity)
-
-- Analyzed social, economic, and demographic datasets to conduct exploratory data analysis and identify areas in need of hunger alleviation services
-- Created multivariable predictive model to predict pounds unmet by census tract using Python and R
-- Produced a variety of data visualizations including choropleth maps to present findings and investigate model accuracy using Tableau
-- Conducted literature review, cleaned census data, and wrote final report and slides to develop future distribution and service strategies
 
 ## Personal/Class Projects
 
