@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-**H. Luo**, A. Mandalik, J. Yu. "Unconvicted Inmates in American Jails". Final project for survey sampling course. May 2019. [[pdf]]((https:/hLuo27.github.io/files/sampling.pdf))
+**H. Luo**, A. Mandalik, J. Yu. "Unconvicted Inmates in American Jails". Final project for survey sampling course. May 2019. [[pdf]](https:/hLuo27.github.io/files/sampling.pdf)
 
-S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for machine learning course. May 2019.[[pdf]]((https:/hLuo27.github.io/files/redwood.pdf))
+S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for machine learning course. May 2019. [[pdf]](https:/hLuo27.github.io/files/redwood.pdf)
 
 **H. Luo**, A. Wu. "Predicting Well Functionality: Limitations of Survey Data". WellDone data science internship project. October 2018. 
 
