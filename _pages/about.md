@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year at UC Berkeley studying statistics and applied math. Currently, I'm working as a Data Science Intern at Lazard and conducting research with the Stark Group in the Statistics department at UC Berkeley. My interests are in applied statistics in connection with finance, political science, and demography.
+I'm a fourth year at UC Berkeley studying statistics and applied math. On campus, I'm a researcher in the Stark Group, a GSI for Data 8, and part of Berkeley Model United Nations, an educational non-profit which organizes the oldest Model UN conference in the world and the largest on the west coast with 2,000+ delegates. 
+
+I will be returning to Lazard as a Data Scientist in 2020 and my interests are in applied statistics in connection with finance and political science. 
