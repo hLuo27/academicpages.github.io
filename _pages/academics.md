@@ -26,7 +26,7 @@ author_profile: true
 
 ### Math Coursework
 
-- Math 185: **Complex Analysis** (Fall 2019)
+- Math 185: **Complex Analysis** (Fall 2019, N. Miller)
 - Math 104: **Real Analysis** (Spring 2018, M. Pejic)
 - Math 170: **Mathematical Methods for Optimization** (Spring 2019, L. Evans)
 - Math 128A: **Numerical Analysis** (Fall 2018, J. Wilkening)
