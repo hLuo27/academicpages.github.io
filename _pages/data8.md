@@ -8,9 +8,9 @@ author_profile: true
 - **GSI**: Hubert Luo
 - **Email**: hubertluo@berkeley.edu
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
-- **Lab**: TBD
-- **Office Hours**: TBD
+- **Lab**: Friday 9-11am in Evans B6
+- **Office Hours**: Friday 2-3pm in Barrows 581
 
 ## Discussion Slides
 
-Lab 1 | Slides
+[Lab 1](https://github.com/hLuo27/teaching/blob/master/data8/slides/lab1.pdf)
