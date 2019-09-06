@@ -14,6 +14,7 @@ author_profile: true
 ## Discussion Slides
 
 [Lab 1](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab1.pdf)
+
 [Lab 2](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab1.pdf)
 
 ## Discussion Notebooks
