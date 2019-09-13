@@ -15,8 +15,12 @@ author_profile: true
 
 [Lab 1](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab1.pdf)
 
-[Lab 2](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab2.pdf)
+[Lab 2: Causality, Expressions, and Table Operations](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab2.pdf)
+
+[Lab 3: Data Types, Sequences, and Tables](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab3.pdf)
 
 ## Discussion Notebooks
 
-[Lab 2](https://github.com/hLuo27/teaching/blob/master/data8/notebooks/lab2.ipynb)
+[Lab 2: Causality, Expressions, and Table Operations](https://github.com/hLuo27/teaching/blob/master/data8/notebooks/lab2.ipynb)
+
+[Lab 3: Data Types, Sequences, and Tables](https://github.com/hLuo27/teaching/blob/master/data8/notebooks/lab3.ipynb)
