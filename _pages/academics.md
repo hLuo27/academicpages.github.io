@@ -39,15 +39,13 @@ author_profile: true
 
 ### Finance Coursework
 
-- UGBA 133: **Investments*** (Fall 2019, S. Olesky)
 - Econ 162: **The Chinese Economy** (Fall 2017, G. Roland)
 - Econ 1: **Introduction to Economics** (Fall 2017, M. Olney)
 
 ### Computer Science Coursework
 
+- CS 375: **Teaching Techniques for Computer Science** (Fall 2019, M. Ball)
 - CS 188: **Artificial Intelligence** (Summer 2018,  A. Baroudi and D. Fried)
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
 
 [Descriptive List of Statistics and Math Coursework](https:/hLuo27.github.io/files/Descriptive_List_of_Statistics_and_Math_Coursework.pdf)
-
-*Auditing this course
