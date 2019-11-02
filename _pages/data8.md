@@ -25,7 +25,9 @@ author_profile: true
 
 [Lab 6: Hypothesis Testing](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab6.pdf)
 
-[Lab 7: A/B Tests](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab7.pdf)
+[Lab 7: A/B Testing](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab7.pdf)
+
+[Lab 8: Bootstrapping and Confidence Intervals](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab8.pdf)
 
 ## Discussion Notebooks
 
