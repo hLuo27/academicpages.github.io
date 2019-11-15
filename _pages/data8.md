@@ -31,6 +31,8 @@ author_profile: true
 
 [Lab 9: Central Limit Theorem and Sample Means](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab9.pdf)
 
+[Lab 10: Inference Review (Hypothesis Testing, A/B Testing, and Confidence Intervals)](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab10.pdf)
+
 ## Discussion Notebooks
 
 [Lab 2: Causality, Expressions, and Table Operations](https://github.com/hLuo27/teaching/blob/master/data8/notebooks/lab2.ipynb)
