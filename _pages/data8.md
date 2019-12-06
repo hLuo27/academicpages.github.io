@@ -33,6 +33,10 @@ author_profile: true
 
 [Lab 10: Inference Review (Hypothesis Testing, A/B Testing, and Confidence Intervals)](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab10.pdf)
 
+[Lab 11: Classification and k-Nearest Neighbours](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab11.pdf)
+
+[Lab 12: Residuals](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab12.pdf)
+
 ## Discussion Notebooks
 
 [Lab 2: Causality, Expressions, and Table Operations](https://github.com/hLuo27/teaching/blob/master/data8/notebooks/lab2.ipynb)
