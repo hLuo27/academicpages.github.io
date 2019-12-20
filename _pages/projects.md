@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**H. Luo** "Modelling Bike Sharing Data: GMM, Causal Inference, Bandits, and Privacy". Final project for data and inference course. December 2019. [[pdf]](https:/hLuo27.github.io/files/bikes.pdf)
+**H. Luo**. "Modelling Bike Sharing Data: GMM, Causal Inference, Bandits, and Privacy". Final project for data and inference course. December 2019. [[pdf]](https:/hLuo27.github.io/files/bikes.pdf)
 
 Y. Bhate, A. Kotak, **H. Luo**, A. Mandalik, V. Parikh. "Modelling Politician Approval Ratings". Final project for time series course. November 2019. [[pdf]](https:/hLuo27.github.io/files/approval_ratings.pdf)
 
@@ -17,7 +17,7 @@ S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for mach
 
 B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https://susa.berkeley.edu/dataconsulting/food-insecurity)
 
-## Personal/Class Projects
+## Personal Projects
 
 ### BrokenBat Baseball Simulator Player Performance Modelling
 Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/player_performance/player_performance_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/player_performance) | January 2019
@@ -30,10 +30,6 @@ Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/draft/draft_r
 -	Scraped draft information of 81,000 players from baseball simulator (BrokenBat)
 -	Developed and evaluated machine learning models to predict a player's potential
 -	Analyzed draft patterns in 15 seasons and created report explaining findings with actionable items for managers to change draft strategies
-
-### Classifying Legendary Pokémon
-R | [Link](https://github.com/hLuo27/pokemon/blob/master/classify_legenday_pokemon_report.md) | May 2018
-- Developed classifier to predict whether a Pokémon is legendary or not with 98.8% accuracy using k-nearest neighbours algorithm 
 
 ### Location of Palindromes in DNA Sequence of Human Cytomegalovirus
 R | [Link](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md) | March 2018
