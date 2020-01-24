@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- **Undergraduate Student Instructor**, Data 8 *Principles of Data Science* (Fall 2019) 
+- **Undergraduate Student Instructor**, Data 8 *Principles of Data Science* (Fall 2019, Spring 2020) 
     - [Lab Section](https://hluo27.github.io/data8/)
 - **Group Tutor**, Stat 134 *Concepts of Probability* (Spring 2018) and Data 8 *Principles of Data Science* (Fall 2018, Spring 2019)
     - [Worksheets for Stat 134](https://github.com/hLuo27/teaching/tree/master/stat134)
