@@ -16,6 +16,7 @@ author_profile: true
 ### Discussion Slides (Spring 2020)
 
 [Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab1.pdf)
+
 [Lab 2: Causality and Table Operations](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab2.pdf)
 
 ## Fall 2019
