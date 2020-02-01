@@ -11,11 +11,12 @@ author_profile: true
 - **Email**: [first name][last name][at]berkeley.edu
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
 - **Lab**: Friday 12-2pm in Evans 458
-- **Office Hours**: TBD
+- **Office Hours**: Friday 4-5pm in Barrows 581
 
 ### Discussion Slides (Spring 2020)
 
 [Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab1.pdf)
+[Lab 2: Causality and Table Operations](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab2.pdf)
 
 ## Fall 2019
 
