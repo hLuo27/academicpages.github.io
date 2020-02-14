@@ -21,6 +21,8 @@ author_profile: true
 
 [Lab 3: Data Types and Table Manipulation](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab3.pdf)
 
+[Lab 4: Plots and Functions](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab4.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
