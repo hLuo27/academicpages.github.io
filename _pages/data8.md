@@ -23,6 +23,8 @@ author_profile: true
 
 [Lab 4: Plots and Functions](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab4.pdf)
 
+[Lab 5: Groups, Joins, and Pivots](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab5.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
