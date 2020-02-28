@@ -12,7 +12,6 @@ author_profile: true
 
 ### Statistics Coursework
 
-- Stat 157: **Statistics, Machine Learning, and AI in Biology** (Spring 2020, J. Brown)
 - Stat 153: **Time Series** (Fall 2019, J. Fisher)
 - Stat 102: **Data, Inference, and Decisions** (Fall 2019, M. Jordan and F. Perez)
 - Stat 154: **Modern Statistical Prediction and Machine Learning** (Spring 2019, B. Yu)
@@ -43,7 +42,6 @@ author_profile: true
 
 - CS 182: **Designing, Visualizing and Understanding Deep Neural Networks** (Spring 2020, F. Canny)
 - Info 159: **Natural Language Processing** (Spring 2020, D. Bamman)
-- History C184D: **Human Contexts and Ethics of Data** (Spring 2020, A. Edmundson and M. Boenig-Lipstin)
 - CS 375: **Teaching Techniques for Computer Science** (Fall 2019, M. Ball)
 - CS 188: **Artificial Intelligence** (Summer 2018,  A. Baroudi and D. Fried)
 - CS 61A: **Structure and Interpretation of Computer Programs** (Fall 2016, J. De Nero)
