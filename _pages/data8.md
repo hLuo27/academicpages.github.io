@@ -8,14 +8,13 @@ author_profile: true
 ## Spring 2020
 
 - **GSI**: Hubert Luo
-- **Email**: [first name][last name][at]berkeley.edu
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
 - **Lab**: Friday 12-2pm in Evans 458
 - **Office Hours**: Friday 4-5pm in Barrows 581
 
 ### Lab Slides (Spring 2020)
 
-[Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab1.pdf)
+[Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab1_break.pdf)
 
 [Lab 2: Causality and Table Operations](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab2.pdf)
 
@@ -30,14 +29,13 @@ author_profile: true
 ## Fall 2019
 
 - **GSI**: Hubert Luo
-- **Email**: [first name][last name][at]berkeley.edu
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
 - **Lab**: Friday 9-11am in Evans B6
 - **Office Hours**: Friday 2-3pm in Barrows 581
 
 ### Lab Slides (Fall 2019)
 
-[Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab1.pdf)
+[Lab 1: Introduction](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab1_break.pdf)
 
 [Lab 2: Causality, Expressions, and Table Operations](https://github.com/hLuo27/teaching/raw/master/data8/slides/lab2.pdf)
 
