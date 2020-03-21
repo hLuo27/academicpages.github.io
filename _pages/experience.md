@@ -7,7 +7,7 @@ author_profile: true
 
 **Lazard**
 
-  - Incoming Data Scientist (Starting June 2020)
+  - Incoming Data Scientist (Starting July 2020)
   - Data Science Intern (May 2019-August 2019)
 
 **WellDone International** (Non-Profit)
@@ -16,7 +16,8 @@ author_profile: true
 
 **Berkeley Model United Nations**
 
-  - President (March 2019 - Present)
+  - Board Member (March 2019 - Present)
+  - President (March 2019 - March 2020)
   - Director of Organizational Partnerships (April 2017 - April 2019)
   - Co-Chair of Chinese State Council and UN Economic and Financial Committees (September 2016 - March 2019)
 

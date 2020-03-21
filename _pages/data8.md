@@ -26,6 +26,8 @@ author_profile: true
 
 [Lab 5: Iteration and Conditionals](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab5.pdf)
 
+[Lab 7: A/B Testing](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab7.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
