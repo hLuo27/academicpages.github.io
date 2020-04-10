@@ -31,6 +31,8 @@ author_profile: true
 
 [Project 2 Lab: Bootstrap and Confidence Intervals](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab_proj2.pdf)
 
+[Lab 8: Central Limit Theorem, Sample Means, and Correlation](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab8.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
