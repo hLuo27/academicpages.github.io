@@ -33,6 +33,8 @@ author_profile: true
 
 [Lab 8: Central Limit Theorem, Sample Means, and Correlation](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab8.pdf)
 
+[Lab 9: Linear Regression and Residuals](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab9.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
