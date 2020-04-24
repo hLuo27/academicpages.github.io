@@ -35,6 +35,8 @@ author_profile: true
 
 [Lab 9: Linear Regression and Residuals](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab9.pdf)
 
+[Project 3 Lab: Residuals and Regression Inference](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab_proj3.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
