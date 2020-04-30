@@ -37,6 +37,8 @@ author_profile: true
 
 [Project 3 Lab: Residuals and Regression Inference](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab_proj3.pdf)
 
+[Lab 10: Classification, k-Nearest Neighbours, and Conditional Probability](https://github.com/hLuo27/teaching/raw/master/data8/slides/sp20_lab10.pdf)
+
 ## Fall 2019
 
 - **GSI**: Hubert Luo
