@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-**Lazard**
+**Lazard Freres & Co.**
 
   - Incoming Data Scientist (Starting July 2020)
   - Data Science Intern (May 2019-August 2019)

@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-S. Kale, **H. Luo**, A. Yeh, A. Zhu. "Yelp Review Rating Prediction with Stacked LSTMs and Data Augmentation". Final project for neural networks course. May 2020. [[pdf]](https:/hLuo27.github.io/files/yelp.pdf)
+S. Kale, **H. Luo**, A. Yeh, A. Zhu. "Yelp Review Rating Prediction with Stacked LSTMs and Data Augmentation". Final project for deep neural networks course. May 2020. [[pdf]](https:/hLuo27.github.io/files/yelp.pdf)
 
 **H. Luo**. "Modelling Bike Sharing Data: GMM, Causal Inference, Bandits, and Privacy". Final project for data and inference course. December 2019. [[pdf]](https:/hLuo27.github.io/files/bikes.pdf)
 
