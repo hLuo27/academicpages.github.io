@@ -21,17 +21,15 @@ B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modellin
 
 ## Personal Projects
 
+### BrokenBat Baseball Simulator Draft Analysis
+Python | [Report](https:/hLuo27.github.io/files/BrokenBat_Draft_Report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/draft) | December 2018 - June 2020
+- Scraping and analysis of 108,488 draft picks from 23 seasons based on various draft metrics in a baseball simulator
+
 ### BrokenBat Baseball Simulator Player Performance Modelling
 Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/player_performance/player_performance_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/player_performance) | January 2019
 -	Scraped player attributes and statistics from a baseball simulator (BrokenBat)
 -	Developed and evaluated machine learning models to predict a batter's weighted on-base average (wOBA) and a pitcher's rate statistics (K/9, BB/9, HR/9) and Fielding Independent Pitching (FIP) 
 -	Applied models and analyze patterns among 900 players to create report explaining findings with actionable items for managers to boost player performance
-
-### BrokenBat Baseball Simulator Draft Analysis
-Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/draft/draft_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/draft) | December 2018
--	Scraped draft information of 81,000 players from baseball simulator (BrokenBat)
--	Developed and evaluated machine learning models to predict a player's potential
--	Analyzed draft patterns in 15 seasons and created report explaining findings with actionable items for managers to change draft strategies
 
 ### Location of Palindromes in DNA Sequence of Human Cytomegalovirus
 R | [Link](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md) | March 2018
