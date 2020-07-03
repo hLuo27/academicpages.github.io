@@ -7,8 +7,8 @@ author_profile: true
 
 **Lazard Freres & Co.**
 
-  - Incoming Data Scientist (Starting July 2020)
-  - Data Science Intern (May 2019-August 2019)
+  - Data Scientist (July 2020 - Present)
+  - Data Science Intern (May 2019 - August 2019)
 
 **WellDone International** (Non-Profit)
 
