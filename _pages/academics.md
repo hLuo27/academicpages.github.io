@@ -8,7 +8,7 @@ author_profile: true
 ## University of California, Berkeley (2016-2020)
 - B.A. Statistics 
 - B.A. Applied Mathematics
-- GPA: 3.92, Dean's Honours List
+- GPA: 3.92, *summa cum laude*
 - Statistics Major GPA: 3.95 // Math Major GPA: 3.90
 
 ### Statistics Coursework

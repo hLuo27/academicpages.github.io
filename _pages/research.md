@@ -7,7 +7,7 @@ author_profile: true
 
 ## Stark Research Group, UC Berkeley
 **Undergraduate Researcher (September 2018 - Present)**
-Review video-recorded faculty job talks to transcribe the number, nature, and duration of interruptions. Perform statistical analysis to quantify interruptions and to test whether race and gender matter, using permutation tests. Help draft a paper for publication.
+I worked on the Look Who's Talking project to examine differences in the number, nature, and duration of interruptions in academic job talks based on the presenter's gender. I created zero-inflated negative binomial models to model the type and number of questions received in faculty talks, performed permutation tests to analyze difference in audience behaviour, and helped draft a paper for publication.
 
 ## UC Berkeley Family and Culture Lab
 **Undergraduate Researcher (January 2017 - May 2018)**
