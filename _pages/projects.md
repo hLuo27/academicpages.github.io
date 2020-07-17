@@ -21,6 +21,6 @@ S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for mach
 
 **H. Luo**. "Location of Palindromes in DNA Sequence of Human Cytomegalovirus". Final project for statistical theory course. March 2018. [[pdf]](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md)
 
-B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https://susa.berkeley.edu/dataconsulting/food-insecurity)
+B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https:/hLuo27.github.io/files/SUSA_Food_Insecurity.pdf)
 
 **H. Luo**. "Asian Americans in Hockey". Writing profiles and updates on hockey players of Asian descent. November 2018-Present. [[Link]](https://asianamericanhockey.home.blog)
