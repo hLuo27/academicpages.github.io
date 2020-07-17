@@ -19,21 +19,8 @@ S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for mach
 
 **H. Luo**, A. Wu. "Predicting Well Functionality: Limitations of Survey Data". WellDone data science internship project. October 2018. 
 
+**H. Luo**. "Location of Palindromes in DNA Sequence of Human Cytomegalovirus". Final project for statistical theory course. March 2018. [[pdf]](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md)
+
 B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https://susa.berkeley.edu/dataconsulting/food-insecurity)
 
-## Personal Projects
-
-### BrokenBat Baseball Simulator Player Performance Modelling
-Python | [Report](https://github.com/hLuo27/broken_bat/blob/master/player_performance/player_performance_report.pdf) | [Code](https://github.com/hLuo27/broken_bat/tree/master/player_performance) | January 2019
--	Scraped player attributes and statistics from a baseball simulator (BrokenBat)
--	Developed and evaluated machine learning models to predict a batter's weighted on-base average (wOBA) and a pitcher's rate statistics (K/9, BB/9, HR/9) and Fielding Independent Pitching (FIP) 
--	Applied models and analyze patterns among 900 players to create report explaining findings with actionable items for managers to boost player performance
-
-### Location of Palindromes in DNA Sequence of Human Cytomegalovirus
-R | [Link](https://github.com/hLuo27/DNA_palindromes/blob/master/dna_palindromes.md) | March 2018
-- Tested whether the placements of palindromes in the DNA sequence of Human Cytomegalovirus follows a Poisson distribution using a chi-squared goodness-of-fit test on the counts of palindromes in various intervals and a hypothesis test on the maximum number of palindromes found in an interval.
-- Wrote final report with visualizations and tables to analyze results and discuss limitations
-
-### Asian Americans in Hockey
-Writing | [Link](https://asianamericanhockey.home.blog)
-- Profiles and updates on hockey players of Asian descent
+**H. Luo**. "Asian Americans in Hockey". Writing profiles and updates on hockey players of Asian descent. November 2018-Present. [Link](https://asianamericanhockey.home.blog)
