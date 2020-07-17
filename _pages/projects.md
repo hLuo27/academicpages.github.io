@@ -23,4 +23,4 @@ S. Damerdji, **H. Luo**. "Cloud Detection in the Arctic". Final project for mach
 
 B. Liang, S. Le, **H. Luo**, et al. "Food Insecurity in Alameda County: Modelling Food Need and Access". Statistics Undergraduate Students Association project. December 2017. [[pdf]](https://susa.berkeley.edu/dataconsulting/food-insecurity)
 
-**H. Luo**. "Asian Americans in Hockey". Writing profiles and updates on hockey players of Asian descent. November 2018-Present. [Link](https://asianamericanhockey.home.blog)
+**H. Luo**. "Asian Americans in Hockey". Writing profiles and updates on hockey players of Asian descent. November 2018-Present. [[Link]](https://asianamericanhockey.home.blog)
