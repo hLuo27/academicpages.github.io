@@ -21,7 +21,7 @@ author_profile: true
   - Director of Organizational Partnerships (April 2017 - April 2019)
   - Co-Chair of Chinese State Council and UN Economic and Financial Committees (September 2016 - March 2019)
 
-## Research Experience
+## [Research Experience](https://hluo27.github.io/research/)
 
 **Stark Research Group, UC Berkeley Statistics Department**
 
@@ -31,10 +31,24 @@ author_profile: true
 
   - Undergraduate Researcher (January 2017-May 2018)
 
-## Teaching Experience
+## [Teaching Experience](https://hluo27.github.io/teaching/)
 
-  - **Undergraduate Student Instructor**, Data 8 *Principles of Data Science* ([Fall 2019](http://data8.org/fa19/), [Spring 2020](http://data8.org/sp20/)) 
-  - **Group Tutor**, Stat 134 *Concepts of Probability* (Spring 2018) and Data 8 *Principles of Data Science* ([Fall 2018](http://data8.org/fa18/), [Spring 2019](http://data8.org/sp19/))
-  - **Reader**, Math 55 *Discrete Mathematics* (Summer 2018)
-  - **Student Learning Centre Tutor**, Math 54 *Linear Algebra and Differential Equations* (Fall 2017)
-  - **Lab Assistant**, Computer Science 61A *Structure and Interpretation of Computer Programs* (Spring 2017)
+**Data 8: Principles of Data Science**
+
+  - Undergraduate Student Instructor ([Fall 2019](http://data8.org/fa19/),  [Spring 2020](http://data8.org/sp20/)) 
+  - Group Tutor ([Fall 2018](http://data8.org/fa18/), [Spring 2019](http://data8.org/sp19/))
+
+**Stat 134: Concepts of Probability** 
+
+  - Group Tutor ([Spring 2018](https://github.com/hLuo27/teaching/tree/master/stat134))
+
+**Math 55: Discrete Mathematics**
+
+  - Reader (Summer 2018)
+
+**Math 54: Linear Algebra and Differential Equations**
+
+  - Tutor (Fall 2017)
+  
+**Computer Science 61A: Structure and Interpretation of Computer Programs**
+  - Lab Assistant (Spring 2017)
