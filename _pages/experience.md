@@ -16,8 +16,8 @@ author_profile: true
 
 **Berkeley Model United Nations**
 
-  - Board Member (March 2019 - Present)
   - President (March 2019 - March 2020)
+  - Board Member (March 2019 - Present)
   - Director of Organizational Partnerships (April 2017 - April 2019)
   - Co-Chair of Chinese State Council and UN Economic and Financial Committees (September 2016 - March 2019)
 
