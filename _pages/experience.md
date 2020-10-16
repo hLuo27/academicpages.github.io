@@ -10,7 +10,7 @@ author_profile: true
   - Data Scientist (July 2020 - Present)
   - Data Science Intern (May 2019 - August 2019)
 
-**WellDone International** (Non-Profit)
+**WellDone International** (NGO)
 
   - Data Science Intern (June 2018-October 2018)
 
@@ -25,11 +25,11 @@ author_profile: true
 
 **Stark Research Group, UC Berkeley Statistics Department**
 
-  - Undergraduate Researcher (September 2018-Present)
+  - Undergraduate Researcher (September 2018 - October 2020)
 
 **Family and Culture Lab, UC Berkeley Psychology Department**
 
-  - Undergraduate Researcher (January 2017-May 2018)
+  - Undergraduate Researcher (January 2017 - May 2018)
 
 ## [Teaching Experience](https://hluo27.github.io/teaching/)
 
