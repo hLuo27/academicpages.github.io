@@ -76,9 +76,9 @@ analytics:
 author:
   name             : "Hubert Luo"
   avatar           : "profile.jpg"
-  bio              : "Data Science @ Lazard"
+  bio              : "Data Science @ Lazard <br> UC Berkeley Statistics + Math '20"
   location         : "New York, NY | Toronto, ON"
-  employer         : "UC Berkeley Stats + Math '20"
+  employer         : 
   email            : 
   uri              :
   bitbucket        :
