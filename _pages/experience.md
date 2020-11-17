@@ -25,7 +25,7 @@ author_profile: true
 
 **Stark Research Group, UC Berkeley Statistics Department**
 
-  - Undergraduate Researcher (September 2018 - October 2020)
+  - Undergraduate Researcher (September 2018 - November 2020)
 
 **Family and Culture Lab, UC Berkeley Psychology Department**
 

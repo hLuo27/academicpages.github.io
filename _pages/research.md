@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Stark Research Group, UC Berkeley
-**Undergraduate Researcher (September 2018 - October 2020)**
+**Undergraduate Researcher (September 2018 - November 2020)**
 I worked on the Look Who's Talking project to examine differences in the number, nature, and duration of interruptions in academic job talks based on the presenter's gender. I created zero-inflated negative binomial models to model the type and number of questions received in faculty talks, performed permutation tests to analyze difference in audience behaviour, and helped draft a paper for publication.
 
 ## UC Berkeley Family and Culture Lab
