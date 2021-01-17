@@ -8,7 +8,7 @@ author_profile: true
 ## Spring 2020
 
 - **GSI**: Hubert Luo
-- **Email**: [first name][last name]@berkeley.edu
+- **Email**: [first name][last name]@[usual email domain]
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
 - **Lab**: Friday 12-2pm in Evans 458
 - **Office Hours**: Friday 4-5pm in Barrows 581
@@ -42,7 +42,7 @@ author_profile: true
 ## Fall 2019
 
 - **GSI**: Hubert Luo
-- **Email**: [first name][last name]@berkeley.edu
+- **Email**: [first name][last name]@[usual email domain]
 - **Lab Website**: [https://hluo27.github.io/data8](https://hluo27.github.io/data8/)
 - **Lab**: Friday 9-11am in Evans B6
 - **Office Hours**: Friday 2-3pm in Barrows 581
