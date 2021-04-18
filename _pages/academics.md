@@ -52,6 +52,6 @@ author_profile: true
 - Econ 162: **The Chinese Economy** (Fall 2017, G. Roland)
 - Econ 1: **Introduction to Economics** (Fall 2017, M. Olney)
 
-[Descriptive List of Statistics and Math Coursework](https:/hLuo27.github.io/files/Descriptive_List_of_Statistics_and_Math_Coursework.pdf)
+[Descriptive List of Statistics and Math Coursework](../files/Descriptive_List_of_Statistics_and_Math_Coursework.pdf)
 
 *\*Course audited*
